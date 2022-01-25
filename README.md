@@ -1,0 +1,1 @@
+# Technics and methods of Analysing Data - project assignments
